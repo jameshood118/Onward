@@ -1,0 +1,27 @@
+BODY
+{
+	color: #000000;
+	font-family: verdana, arial, sans-serif;
+	background-image: url(pics/background.jpg);
+	background-attachment: fixed;
+	background-color: #1863AD;
+	font-size: x-small;
+	}
+
+A:link
+{
+	font-weight: bold;
+	color: #aaaaff;
+	text-decoration: none;
+}
+A:visited
+{
+	font-weight: bold;
+	color: #aaaaff;
+	text-decoration: none;
+}
+A:hover
+{
+	font-weight: bold;
+	color: yellow;
+	text-decoration: underline;

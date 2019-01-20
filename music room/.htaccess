@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "music room"
+
+AuthUserFile "/home/hoodj/.htpasswds/onward/music room/passwd"
+
+
+require valid-user
